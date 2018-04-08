@@ -1,0 +1,86 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+html {
+    height: 100%;
+    font: normal;
+    
+  body {
+     width: 100%;
+     height: 100%;
+     text-align: center;
+     background-color: palegoldenrod;
+     background-image: url(https://blog.spoongraphics.co.uk/wp-content/uploads/2017/popsicles/vector-popsicles.jpg)
+     
+     
+  }
+
+  header {
+    background-color: #E8A70C;
+    padding: 10px;
+    border: 10px solid black;
+    margin-bottom: 30px;
+    font-size: 26px;
+    display: block;
+    text-align: center;
+    background-image: url(https://blog.spoongraphics.co.uk/wp-content/uploads/2017/popsicles/vector-popsicles.jpg);
+    
+    
+    
+  }
+  nav {
+      float: left;
+      padding-block-end: 5px;
+      width: 100%;
+      background-color: (#12, 232, 221);
+      text-align: center;
+      
+  }
+      
+  }
+  nav ul {
+      padding-left: 5px;
+      text-align: center;
+
+  }
+  nav li {
+    text-align: center;
+    padding: 12x 18px 8px 12px;
+    word-spacing: 5px;
+
+      
+  }
+  nav li a {
+      display: inline-block;
+      height: 25px;
+      padding: 12x 18px 8px 12px;
+      vertical-align: middle;
+      word-spacing: normal;
+  }
+  a {
+      color: royalblue;
+      text-align: center
+  }
+  section {
+      width: 73%;
+      display: inline-block;
+      float: left;
+  }
+  aside {
+      width: 17%;
+      display: inline-block;
+      background-color:;
+      padding:;
+      min-height: 100%;
+  }
+  aside ul {
+      list-style-type: none;
+  }
+  footer {
+      width: 790px;
+      background-color:;
+      color:;
+      clear: both;
+      display: block;
+  }
