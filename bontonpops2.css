@@ -7,7 +7,7 @@ there are definitely some properties you should add!*/
     }
     body {
        height: 100%;
-       background-color: skyblue;
+       background-color: green;
        
     }
 
@@ -22,24 +22,28 @@ there are definitely some properties you should add!*/
         padding: 0px;
 
     }
+   
     nav {
-        float: left;
         width: 100%;
+        text-align: center;
+        
     }
     nav ul {
-        padding: ;
-        float: left;
+        text-align: center
         border-bottom: ;
         list-style-type: none;
     }
     nav li {
-        float: left;
+        text-align: center;
+        display: inline-block;
+        
     }
     nav li a {
         display: block;
         height: 25px;
         padding: 12px 18px 8px 18px;
-        vertical-align: middle;
+        vertical-align: middle
+        
     }
     a {
         color: ;
